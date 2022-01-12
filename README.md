@@ -8,3 +8,6 @@ The email module is a library for managing email messages. It is specifically no
 Enable Less secure app access to send mail from Gmail Account using this Python GUI. To enable follow the below steps
 
 Login to accounts.goole.com -> Click on Security -> Scroll down and Turn On the option called 'Less secure app access'
+
+# OUTPUT OF THE GUI:
+![image](https://user-images.githubusercontent.com/46685919/149172638-f35fb960-832f-45ab-ac79-d0132538bafa.png)
